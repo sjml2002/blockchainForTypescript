@@ -1,0 +1,3 @@
+- vscode로 작업시 명령: npx tsc로 ts->js컴파일 후, node ./dist/index.js
+- ts파일은 전부 src폴더로
+- 컴파일된 js파일은 dist에 있음
